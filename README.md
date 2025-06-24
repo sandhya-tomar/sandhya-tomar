@@ -1,32 +1,25 @@
-<!-- Banner Image -->
-<p align="center">
-  <img src="https://i.imgur.com/2yAf7OB.png" alt="Sandhya Tomar Banner" width="100%" />
+<!-- Top section with image and intro side-by-side -->
+<p align="right">
+  <img src="https://static.vecteezy.com/system/resources/thumbnails/035/322/677/small_2x/ai-generated-3d-happy-cartoon-girl-on-transparent-background-png.png" width="180" alt="Sandhya here!"/>
 </p>
 
-<h1 align="center">Hi, I'm Sandhya Tomar 👋</h1>
+<h1>Hi, I'm Sandhya Tomar 👋</h1>
 
-<p align="center">
-  🎓 B.Tech CSE Student at GLA University <br>
-  💻 Passionate about Web Development, Machine Learning & DSA <br>
-  🌱 Currently learning MERN stack & TensorFlow <br>
-  🚀 Always building and exploring new ideas
-</p>
+🎓 B.Tech CSE Student at GLA University  
+💻 Passionate about Web Development, Machine Learning, and DSA  
+🚀 Always learning, building, and growing in tech
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40px"/>
-</p>
+| Category         | Tools & Technologies                                  |
+|------------------|--------------------------------------------------------|
+| 👩‍💻 Languages     | `Java` `Python` `C` `JavaScript`                      |
+| 🌐 Web           | `HTML` `CSS` `React.js` `Node.js`                      |
+| 🤖 ML/AI         | `TensorFlow` `OpenCV`                                  |
+| 🛢️ Databases     | `MySQL` `MongoDB`                                      |
+| ⚙️ Tools         | `Git` `GitHub` `VS Code`                               |
 
 ---
 
@@ -47,13 +40,13 @@
 
 ---
 
-## 💼 Featured Projects
+## 💼 Projects
 
-| Project | Preview | Description |
-|--------|---------|-------------|
-| **GreenGaze-AI** | ![GreenGaze Demo](https://media.giphy.com/media/l0K4kWJir9noStjS0/giphy.gif) | Real-time waste classification using webcam & CNN |
-| **Donation Tracker** | ![Donation Tracker](https://via.placeholder.com/100x60?text=App+UI) | Java Swing desktop app for managing donations |
-| **Product Manager** | ![Inventory App](https://via.placeholder.com/100x60?text=App+UI) | Inventory management system built in Java |
+| Project              | Description |
+|----------------------|-------------|
+| **GreenGaze-AI**     | ♻️ Real-time waste classification using webcam & CNN |
+| **Donation Tracker** | 🧾 Java Swing-based application to track donations |
+| **Product Manager**  | 📦 Desktop app for inventory management |
 
 ---
 
