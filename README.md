@@ -3,7 +3,7 @@
   <img src="https://static.vecteezy.com/system/resources/thumbnails/035/322/677/small_2x/ai-generated-3d-happy-cartoon-girl-on-transparent-background-png.png" width="180" alt="Sandhya here!"/>
 </p>
 
-<h1>Hi, I'm Sandhya Tomar 👋</h1>
+<h1>Hi, I'm Sandhya 👋</h1>
 
 🎓 B.Tech CSE Student at GLA University  
 💻 Passionate about Web Development, Machine Learning, and DSA  
