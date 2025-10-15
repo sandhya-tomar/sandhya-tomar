@@ -15,8 +15,8 @@
 
 | Category         | Tools & Technologies                                  |
 |------------------|--------------------------------------------------------|
-| 👩‍💻 Languages     | `Java` `Python` `C` `JavaScript`                      |
-| 🌐 Web           | `HTML` `CSS` `React.js` `Node.js`                      |
+| 👩‍💻 Languages     | `Java` `Python` `C` |
+| 🌐 Web           | `HTML` `CSS`                       |
 | 🤖 ML/AI         | `TensorFlow` `OpenCV`                                  |
 | 🛢️ Databases     | `MySQL` `MongoDB`                                      |
 | ⚙️ Tools         | `Git` `GitHub` `VS Code`                               |
